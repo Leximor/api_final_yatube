@@ -1,4 +1,4 @@
-# API for Yatube social network
+# API для социальной сети 'Yatube'
 ## api_yatube это реализация API для моего учебного проекта - социальной сети "Yatube".
 ### Проект реализован на Django REST framework.
 Чтобы развернуть проект на вашем компьютере:
